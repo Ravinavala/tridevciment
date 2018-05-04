@@ -1,0 +1,2 @@
+01/04/2018 04:23:41 am - copy to /Applications/MAMP/htdocs/tridevciment/wp-content/themes/tridev/single-maxgallery.php successful
+01/04/2018 04:23:41 am - permalinks updated
